@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="media/logo.png" type="image/png">
+    <title>Fixr</title>
+    <meta name="author" content="Tien Le">
+    <!-- Fonts -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Chivo Mono">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Yellowtail">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styling.css">
+    <!--suppress JSUnresolvedLibraryURL -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+
+</head>
+<body>
+
+<div class="container-fluid custom-footer" data-aos="fade-down">
+    <nav class="navbar navbar-expand-lg navbar-dark container">
+        <a href="index.html" class="navbar-brand">
+            <img src="media/logo.png" alt="Logo" style="height: 100px; width: 100px;">
+        </a>
+        <button class="navbar-toggler collapsed d-flex d-lg-none flex-column justify-content-around"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#toggleMobileMenu"
+                aria-controls="toggleMobileMenu"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="toggler-icon top-bar"></span>
+            <span class="toggler-icon middle-bar"></span>
+            <span class="toggler-icon bottom-bar"></span>
+
+        </button>
+        <div class="collapse navbar-collapse" id="toggleMobileMenu">
+            <ul class="navbar-nav ms-auto text-end">
+                <li>
+                    <a class="nav-link" href="#">Search a Code</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="academic.html">About Us</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="teaching.html">Contact Us</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#contact">Login</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    
+</div>
+<div class="container-fluid" style="height: 1000px">
+</div>
+<section data-aos="fade-up">
+    <div class="container-fluid custom-footer">
+        <div id="contact" class="container d-flex flex-wrap justify-content-between align-items-center custom-contact">
+            <p class="display-1">Contact us at:</p>
+            <ul class="list-unstyled">
+                <li class=" display-5">
+                    <a href=""
+                       class="text-decoration-none text-light custom-contact-link"
+                       target="_blank">+1(123)456-7890</a>
+                </li>
+                <li class=" display-5">
+                    <a href="https://github.com/flannelboy" class=" text-decoration-none text-light custom-contact-link"
+                       target="_blank">GitHub</a>
+                </li>
+                <li class=" display-5">
+                    <a href="mailto:hello@fixr.com" class=" text-decoration-none text-light custom-contact-link"
+                       target="_blank">hello@fixr.com</a>
+                </li>
+            </ul>
+        </div>
+        <footer class="text-center py-3">
+            <div>
+                <p>&copy; 2023 FIXR, Tien Le. All rights reserved.</p>
+            </div>
+        </footer>
+    </div>
+</section>
+
+<script src="js/bootstrap.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    // noinspection JSUnresolvedReference
+    AOS.init();
+</script>
+</body>
+</html>
