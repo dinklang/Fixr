@@ -43,6 +43,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 List any prerequisites or dependencies that need to be installed before using the application.
+- Note: Please ensure you have installed nodejs
 
 ### Installation
 
@@ -71,8 +72,13 @@ We welcome contributions from the community. To contribute to FIXR, follow these
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
+4. Open project folder in Visual Studio Code
+5. In the terminal, run npm install
+6. Run npm start to view project in browser
+7. Push your changes to your fork.
+8. Submit a pull request to the main repository.
+
+
 
 ## Authors
 
