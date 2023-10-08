@@ -71,10 +71,14 @@ We welcome contributions from the community. To contribute to Fixr, follow these
 
 ## Authors
 
-- Author 1
-  - GitHub: [GitHub Profile](https://github.com/author1)
-- Author 2
-  - GitHub: [GitHub Profile](https://github.com/author2)
+- Tien Le
+  - GitHub: [GitHub Profile](https://github.com/flannelboy)
+- Sandro Dinklang
+  - GitHub: [GitHub Profile](https://github.com/dinklang)
+- Noe Sanchez
+  - GitHub: [GitHub Profile](https://github.com/NoeSanchezz)
+- Alan Santoyo 
+  - GitHub: [GitHub Profile](https://github.com/alansantoyo)
 
 ## License
 
