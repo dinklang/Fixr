@@ -47,7 +47,7 @@ List any prerequisites or dependencies that need to be installed before using th
 ### Installation
 
 Provide step-by-step instructions on how to install and set up the application locally.
-- Check out ReactJS and Boostrap 5.3.2v documentations
+- Check out ReactJS and Boostrap 5.3.2v documentations from official websites.
 
 ## Usage
 
@@ -62,7 +62,7 @@ Provide step-by-step instructions on how to install and set up the application l
 - Frontend Framework: ReactJS, Boostraps, HTML, CSS, JavaScript, Git, GitHub, 
 - Backend Framework: Djanglo, Python, Google Cloud
 - Database: Google Cloud SQL
-- UI/UX Design: Figma, Canva, Adobe Express
+- UI/UX Design: Figma, Canva, Adobe Photoshop, Adobe Illustrator
 
 ## Contributing
 
