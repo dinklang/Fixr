@@ -72,17 +72,17 @@ We welcome contributions from the community. To contribute to Fixr, follow these
 ## Authors
 
 - Tien Le
-  - GitHub: [GitHub Profile](https://github.com/flannelboy)
+  - GitHub: [Tien](https://github.com/flannelboy)
 - Sandro Dinklang
-  - GitHub: [GitHub Profile](https://github.com/dinklang)
+  - GitHub: [Sandro](https://github.com/dinklang)
 - Noe Sanchez
-  - GitHub: [GitHub Profile](https://github.com/NoeSanchezz)
+  - GitHub: [Noe](https://github.com/NoeSanchezz)
 - Alan Santoyo 
-  - GitHub: [GitHub Profile](https://github.com/alansantoyo)
+  - GitHub: [Alan](https://github.com/alansantoyo)
 
 ## License
 
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
